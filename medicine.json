@@ -42,6 +42,32 @@
                         }
                      ]
                   }
+               },
+               {
+                  "rp":{
+                     "taking_time":"毎食後",
+                     "unit":"日分",
+                     "quantity":30,
+                     "taking_type":"internal",
+                     "usage_comments":[
+                        "一包化",
+                        "車の運転は控えてください。"
+                     ],
+                     "medicines":[
+                        {
+                           "name":"ロキソニン錠60mg",
+                           "yj_code":"1319735Q1071",
+                           "receipt_code":"620098801",
+                           "hot_code":"1009880010204",
+                           "unit":"錠",
+                           "quantity":"3",
+                           "comment":[
+                              "朝1錠、夕2錠",
+                              "グレープフルーツジュースと一緒に飲まないでください。"
+                           ]
+                        }
+                     ]
+                  }
                }
             ]
          },
